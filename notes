@@ -6,4 +6,30 @@ make database based on nltk stems & randomly shuffle for clara
 
 don't do research in home directory, do it in project space
 
+/fs/clip-??? <-- project space
 
+	use cd not ls
+
+	permissions: everyone in group can rwe, nobody outside can do anything
+
+look at wiki, if doesnt exist: doit
+
+clipwiki.umiacs.umd.edu
+
+
+
+In: [inf...] [der...] a G G r a v a r e 
+Out: - - a G G r a v a 
+
+Notes:
+ - no spaces in feature tags
+ - tag for each feature 
+ - put dummy words
+
+
+
+Database Steps
+ - lemma phones
+ - inflection based on gtagger
+ - derivation based on nltk snowball
+ - glomming
