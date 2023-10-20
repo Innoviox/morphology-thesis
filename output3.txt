@@ -1,0 +1,30 @@
+source i m p j e g a r e masc plur 3 nan yes
+target i m p j e g a r l i -  -  -  -  -
+predicted a a n e a a - - - -     - - - - <EOS>
+source i n n o r a r e masc sing nan past nan
+target i n n o r a t o -  -  -  -  -
+predicted a a n e a a - - - -     - - - -
+source k r i s t j a n o masc plur nan nan nan
+target k r i s t j a n i -  -  -  -  -
+predicted a a n e a a - - - -     - - - - <EOS>
+source s k o m p o r r e nan sing 3 pres nan
+target s k o m p o n g a -  -  -  -  -
+predicted a a n e a a - - - -     - - - - <EOS>
+source s o f f o k a r e masc sing nan past nan
+target s o f f o k a t o -  -  -  -  -
+predicted a a n e a a - - - -     - - - - <EOS>
+source a p p r e z z a r e nan sing 3 pres nan
+target a p p r e z z e r a -  -  -  -  -
+predicted a a n e a a - - - -     - - - - <EOS>
+source r a f f i n a r e nan sing 3 pres nan
+target r a f f i n a - - nan sing 3 pres nan
+predicted a a n e a a - - - -     - - -
+source i d e o g r a m m a masc plur nan nan nan
+target i d e o g r a m m i -  -  -  -  -
+predicted a a n e a a - - - -     - - - - <EOS>
+source a l j e n o masc plur nan nan nan
+target a l j e n i -  -  -  -  -
+predicted a a n e a a - - - -     - -
+source s u p a r e nan nan nan nan yes
+target s u p a r n e -  -  -  -  -
+predicted a a n e a a - - - -     - - -

@@ -1,0 +1,30 @@
+source nan sing 3 imp nan f u g a r e
+target -  -  -  -  - f u g a v a
+predicted -  -  -  -  - - e r a a a a
+source nan plur 3 pres nan i m p o r r e
+target -  -  -  -  - i m p o n g o n o
+predicted -  -  -  -  - - e r a a a a <EOS>
+source nan nan nan nan nan k a p i t a r e
+target -  -  -  -  - k a p i t a n d o
+predicted -  -  -  -  - - e r a a a a <EOS>
+source fem sing nan past nan r a t t o p p a r e
+target -  -  -  -  - r a t t o p p a t a
+predicted -  -  -  -  - - e r a a a a <EOS>
+source fem sing nan nan nan i n s i k u r o
+target -  -  -  -  - i n s i k u r a
+predicted -  -  -  -  - - e r a a a a <EOS>
+source nan sing 3 imp nan p j a n g e r e
+target -  -  -  -  - p j a n g e v a
+predicted -  -  -  -  - - e r a a a a <EOS>
+source nan plur nan nan nan v i r i l e
+target -  -  -  -  - v i r i l i
+predicted -  -  -  -  - - e r a a a a
+source nan sing 3 imp nan i n g r o s s a r e
+target -  -  -  -  - i n g r o s s a v a
+predicted -  -  -  -  - - e r a a a a <EOS>
+source nan plur 3 pres nan r i k o r r e r e
+target -  -  -  -  - r i k o r r a n o
+predicted -  -  -  -  - - e r a a a a <EOS>
+source masc sing nan past nan p r o s s o l l e r e
+target -  -  -  -  - p r o s s o l t o
+predicted -  -  -  -  - - e r a a a a <EOS>

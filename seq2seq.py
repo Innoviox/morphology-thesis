@@ -10,6 +10,7 @@ import pandas as pd
 import os
 import re
 import random
+import tqdm
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -211,7 +212,7 @@ def trainModel(model, source, target, pairs, num_iteration=20000):
    training_pairs = [tensorsFromPair(source, target, random.choice(pairs))
                      for i in range(num_iteration)]
   
-   for iter in range(1, num_iteration+1):
+   for iter in tqdm.tqdm(range(1, num_iteration+1)):
        training_pair = training_pairs[iter - 1]
        input_tensor = training_pair[0]
        target_tensor = training_pair[1]
@@ -271,7 +272,8 @@ print('Input : {} Output : {}'.format(input_size, output_size))
 embed_size = 256
 hidden_size = 512
 num_layers = 1
-num_iteration = 100000
+# num_iteration = 100000
+num_iteration = 25000
 
 #create encoder-decoder model
 encoder = Encoder(input_size, hidden_size, embed_size, num_layers)
