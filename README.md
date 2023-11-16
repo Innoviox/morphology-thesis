@@ -1,0 +1,3 @@
+- fix clitic tag: should mark the person/number/whatever of the clitic
+- fix some verbs: are they wrong? who knows
+- just run for longer lmao, also move learning rate back up, increase batch size

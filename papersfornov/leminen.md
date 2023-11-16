@@ -1,0 +1,23 @@
+- inflectional morphemes: glue
+  - problem: irregular forms
+  - solution: dual-route mechanisms
+  - single-mechansm: stored in lexicon, result of rules
+- eegs: mostly for inflectional morphemes
+  - violation: wrong thing, look at eeg response
+  - priming: expect certain word
+- meg: mass electrical activity
+  - m170: early decomposition
+  - m350: lexical access, more decomposition
+  - => decomposition
+- fmri: also mostly inflection: focus on localization of inflectional processing
+  - problem: irregular verbs not productive => results don't generalize well
+  - central role of LIFG in processing of regular inflection => rule based processing of regular infletions
+    - retrieval: expected to engage hippocampal network
+- derivational omrphology: base + affixes
+  - conflicting results on whether or not derived words are decomposed
+  - mostly: english, german, french, spanish, finnish
+  - parallel morpheme activation, semantic integration of combination
+  - words and pseudwords > nonwords => decomposition extends to nonproductive morphemes
+  - some say whole-word/dual-route
+  - priming
+    - 
