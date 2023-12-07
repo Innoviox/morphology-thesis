@@ -1,5 +1,5 @@
 - [x] fix caramezzi diagram
-- [ ] write section for caramezzi diagram
+- [x] write section for caramezzi diagram
 - [x] fix colors (everywhere) derivation=#5571ab inflection=#d1885c
   - [x] 2 categories
   - [x] graph 1
