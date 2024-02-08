@@ -1,0 +1,25 @@
+# YAML
+
+# where the samples will be written
+save_data: regbP
+
+# where the vocabs will be written
+src_vocab: regbP/vocab.src
+tgt_vocab: regbP/vocab.tgt
+
+overwrite: True
+
+# Corpus opts
+data:
+  corpus_1:
+    path_src: inputs.txt
+    path_tgt: outputs.txt
+  valid:
+    path_src: valid_in.txt
+    path_tgt: valid_out.txt
+
+# where to save the checkpoints
+save_model: regbP/model
+save_checkpoint_steps: 5000
+train_steps: 77280
+valid_steps: 5000

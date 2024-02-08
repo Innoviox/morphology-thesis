@@ -1,500 +1,500 @@
--  nan Plur 3 Fut nan Ind Fin a k k o n t e n t a r e
--  nan Sing 3 Imp nan Ind Fin l a S S i v o
--  nan Plur 3 Pres nan Ind Fin e s t i n G w e r e
--  nan nan nan nan nan nan Inf r i n G j E r a
--  Masc Sing nan nan nan nan nan s k e r z a r e
-ADJ Fem Plur nan nan nan nan nan n a n
--  Masc Sing nan Past nan nan Part k o l l a w d a r e
--  nan Plur nan Pres nan nan Part r a f f i G u r a r e
--  Masc Plur nan Past nan nan Part a k k r e d i t o
-VERB Masc Plur nan Past nan nan Part n a n
--  nan Plur 3 Pres nan Ind Fin i n d i r e
--  nan Sing 3 Imp nan Ind Fin k a p o Z Z O n a
--  Fem Sing nan nan nan nan nan i n t e r d e t t o
-ADJ Fem Plur nan nan nan nan nan n a n
--  nan Sing 2 Pres 1PD Imp Fin a f f r a n k a r e
--  Fem Plur nan Past nan nan Part a p p r o d a r e
--  nan Sing 3 Imp nan Ind Fin s p o s t a r e
--  Fem Sing nan Past nan nan Part r i s u k k j a r e
--  nan nan 3 nan 1PD nan Inf r i v e d e r e
--  Masc Plur nan Past nan nan Part o b b l i G a r e
--  Masc Plur nan Past nan nan Part s o p i t o
-NOUN Fem Plur nan nan nan nan nan u t i l i Z Z a z z j o n e
--  nan Plur 3 Past nan Ind Fin r i k o n k w i s t a r e
--  Masc Plur nan Past nan nan Part e s p u l s o
--  Fem Plur nan nan nan nan nan b e r t u c c a
--  Masc Sing nan nan nan nan nan r i e n t r a r e
--  Fem Sing nan nan nan nan nan r i g i d o
--  Fem Plur nan Past nan nan Part i n s o r g e r e
-ADJ Fem Plur nan nan nan nan nan n a n
--  Fem Plur nan nan nan nan nan t a v o l a
--  Fem Sing nan nan nan nan nan s b u k a r e
--  Masc Plur nan nan nan nan nan u s u r a t o
--  nan Plur 1 Imp nan Sub Fin p o t e r e
--  nan Sing 3 Pres nan Sub Fin a n d a r e
--  Fem Sing nan nan nan nan nan i m m u n i t a r j o
-NOUN Fem Plur nan nan nan nan nan n a n
--  nan Sing 2 Pres nan Ind Fin f i d a r e
--  nan Sing 1 nan 1SD nan Inf o p e r a r e
--  Masc Plur nan nan nan nan nan m a G r o
--  Masc Plur nan nan nan nan nan k a t t O l i k o
--  Masc Sing nan nan nan nan nan r i s v e L L a r e
-ADJ Fem Sing nan nan nan nan nan n a n
--  Masc Plur nan nan nan nan nan k o m p i t o
--  Fem Plur nan nan nan nan nan l a n a
-ADJ Fem Plur nan nan nan nan nan n a n
--  Fem Sing nan nan nan nan nan r e s t r i n g e r e
--  Fem Sing nan nan nan nan nan p j o n j E r e
--  nan Plur nan nan nan nan nan p e g g o r e
--  Fem Sing nan Past nan nan Part s p a k k a r e
-ADJ nan Sing nan nan nan nan nan n a n
--  Masc Plur nan Past nan nan Part i n g i G a n t i t o
--  Masc Sing nan nan nan nan nan a c c e r t a r e
--  Masc Plur nan Past nan nan Part k j a m a r e
--  Fem Plur nan nan nan nan nan i n d u s t r j a l i Z Z a t o
--  Masc nan nan nan nan nan nan f i d a n z a r e
--  Masc Sing nan Past nan nan Part a m m o r b i d i r e
--  Fem Plur nan nan nan nan nan f r e k w e n t a t o
--  Fem Sing nan Past nan nan Part k a p o v O l t o
--  nan nan nan nan nan nan Ger s m a l t i r e
--  Fem Plur nan nan nan nan nan a s s i m i l a r e
--  nan Plur 1 Imp nan Ind Fin d e c i d e r e
--  nan nan nan nan nan nan nan G a n G s t e r i s t i k o
--  Fem Plur nan nan nan nan nan m o s k E a
--  Masc Sing nan nan nan nan nan s v i l u p p a r e
--  Masc Sing nan Past nan nan Part s f o G a r e
-NOUN Masc Plur nan nan nan nan nan n a n
--  Masc Plur nan Past nan nan Part f a r e
-ADJ Fem Plur nan nan nan nan nan n a n
-NOUN Fem Plur nan nan nan nan nan n a n
--  Masc Sing 3 nan 3PD nan Inf d i m o s t r a r e
--  Fem Plur nan nan nan nan nan e k o G r a f i a
--  nan Sing nan Pres nan nan Part e s i s t e r e
--  Masc Sing 3 nan 3SD nan Inf v i v e r e
--  Fem Sing 3 nan 3SDF nan Inf k o m p a r a r e
--  Fem Plur nan nan nan nan nan m a r m O t t a
--  nan Sing 3 Imp nan Ind Fin a c c e l e r a r e
--  Fem Sing nan Past nan nan Part k o n d a n n a r e
-ADJ nan Plur nan nan nan nan nan p r o t e s t a n t e
--  nan Sing 3 Pres nan Ind Fin k a n c e l l a r e
--  nan Sing nan nan nan nan nan a c c E n d e r e
--  nan Sing 3 Imp nan Ind Fin r i v e l a r e
--  nan nan nan nan nan nan nan a
--  Fem Sing nan nan nan nan nan v e l a t o
--  Fem Plur nan nan nan nan nan s k r i v a n i a
--  Masc Plur nan nan nan nan nan e s i b i r e
--  nan nan 3 nan 1PD nan Ger r i s O l v e r e
--  Masc Sing nan Past nan nan Part r i t a L L a r e
--  Masc Plur nan nan nan nan nan n E o n a z z i s t a
--  nan Plur nan nan nan nan nan i m p a s s i b i l e
--  Masc Plur nan nan nan nan nan s a n i t a r j o
-ADJ Fem Sing nan nan nan nan nan n a n
-NOUN Fem Plur nan nan nan nan nan n a n
--  Fem Plur nan Past nan nan Part p r e n o t a r e
--  Masc Plur nan nan nan nan nan f r a n k o
--  Masc Sing nan Past nan nan Part i n d u r i r e
-NOUN Masc Plur nan nan nan nan nan n a n
--  nan Plur nan nan nan nan nan i n k u r a b i l e
--  nan Sing 3 Pres nan Ind Fin i m p o r r e
--  nan Plur nan nan nan nan nan s u p p l e m e n t a r e
--  nan Plur 3 Pres nan Ind Fin m w O v e r e
--  nan Plur 1 Pres nan Ind Fin a n d a r e
--  nan nan nan nan nan nan Inf s k O p p j o
--  nan nan nan nan nan nan Ger a l l u n G a r e
--  Masc Plur nan nan nan nan nan k o m p r a t o r e
--  Masc Sing nan Past nan nan Part s b a t t e r e
-ADJ Fem Plur nan nan nan nan nan n a n
--  Masc Sing nan Past nan nan Part c i r k o s k r i v e r e
--  nan Sing 3 Pres nan Ind Fin k o l t i v a r e
-ADJ nan Plur nan nan nan nan nan k o n t r a s t a r e
--  nan Sing 1 Pres nan Ind Fin k a p o v O l g e r e
--  Masc Plur nan nan nan nan nan c i s t e r c E n s e
--  nan Sing 3 Pres nan Ind Fin k o m p r a r e
--  Fem Sing nan nan nan nan nan b o l l a r e
--  nan Plur nan nan nan nan nan k o m m e r c a n t e
--  nan Sing 3 Pres nan Ind Fin p r e d i r e
--  Fem Plur nan Past nan nan Part l i k w i d a r e
--  nan Plur 3 Imp nan Sub Fin v i n c e r e
--  nan Plur 3 Pres nan Sub Fin t o r n a r e
--  Masc Sing nan Past nan nan Part d i S S i p l i n a r e
--  Fem Plur nan nan nan nan nan m i r i a d e
--  Masc Plur nan nan nan nan nan l O t t o
--  Fem Sing nan nan nan nan nan s a b a w d o
--  Masc Sing nan Past nan nan Part f o r g a r e
--  Fem Sing nan nan nan nan nan d i s p j a c e r e
--  Masc Plur nan nan nan nan nan s a t u r o
--  Masc Plur nan Past nan nan Part r j a c c u f f a r e
--  nan nan nan nan nan nan Ger d i s k u t e r e
--  nan Sing 1 Pres nan Ind Fin k r e a r e
--  Fem Plur nan Past nan nan Part d i v e n t a r e
--  Masc Plur nan nan nan nan nan m i k r o p r o c e s s o r e
--  nan nan nan nan nan nan nan s a l e r n i t a n o
-ADJ Fem Plur nan nan nan nan nan d o G m a t i k o
--  nan Plur 1 Fut nan Ind Fin l a S S a r e
--  Fem Sing nan Past nan nan Part k O L L e r e
-NOUN Fem Plur nan nan nan nan nan p u n z e k k j a r e
--  Fem Sing nan nan nan nan nan o k k u p a r e
--  nan Sing 3 Imp nan Ind Fin k o n v E r g e r e
--  Fem Sing nan Past nan nan Part r i a s s o r b i r e
--  Fem Plur nan Past nan nan Part s e G w i t o
-NOUN nan nan nan nan nan nan nan n a n
-ADJ Fem Sing nan nan nan nan nan n a n
--  Fem Plur nan nan nan nan nan p a l a z z i n a
--  Fem Sing nan nan nan nan nan s v e n t o l a r e
--  nan Plur 3 Pres nan Ind Fin i m p a z z i r e
--  Fem nan 3 nan 3SIF nan Inf k o n o S S e r e
--  Fem Sing nan Past nan nan Part G o v e r n a r e
--  nan Plur 3 Pres nan Sub Fin r E n d e r e
--  Fem Plur nan nan nan nan nan p i t t u r a
--  Fem Plur nan nan nan nan nan i n k r o c a t o
--  nan Plur 3 Imp nan Ind Fin s t r i n g e r e
--  nan Sing 1 Imp nan Ind Fin k o n v e n i r e
--  Fem Sing nan nan nan nan nan i n t e r o
--  nan Plur 3 Pres nan Ind Fin e n t r a r e
--  nan Plur 3 Imp nan Ind Fin v o l e r e
-ADJ Fem Plur nan nan nan nan nan e m b l e m a t i k o
--  Masc Sing nan Past nan nan Part e s p r i m e r e
-ADJ Masc Plur nan nan nan nan nan d i s k o G r a f i k o
--  nan Plur 3 Imp nan Ind Fin e v i t a r e
--  nan nan 3 nan 1PD nan Inf f r e k w e n t a r e
-ADJ Fem Sing nan nan nan nan nan n a n
--  nan Plur 3 Imp nan Ind Fin s m w O v e r e
-ADJ Fem Sing nan nan nan nan nan n a n
--  nan Sing nan nan nan nan nan s p r E m e r e
--  Fem Sing nan nan nan nan nan a G G r a z z j a t o
--  Masc Sing nan Past nan nan Part k o m p o r r e
--  nan Plur 3 Past nan Ind Fin p r o v a r e
--  Masc Plur nan nan nan nan nan s a g g o
--  nan Sing 3 Past nan Ind Fin p o r r e
--  Fem Sing nan nan nan nan nan e p i d E r m i k o
--  nan Sing 3 Pres nan Cnd Fin i n t r o d u r r e
--  nan Sing 3 Pres nan Ind Fin s p a z z a r e
--  Masc Plur nan nan nan nan nan r i s a l i r e
--  nan Plur 3 Pres nan Sub Fin p r e v e d e r e
--  Fem Plur nan nan nan nan nan k o m p l e t a r e
--  nan nan nan nan 3SDA nan Inf f u g g i r e
--  Masc Sing 3 nan 3SD nan Inf s e d u r r e
--  nan Plur nan nan nan nan nan i m p e r d o n a b i l e
--  Fem Sing nan nan nan nan nan d E c i m o
-ADJ Masc Plur nan nan nan nan nan n a n
--  nan nan nan nan 3SDA nan Inf a f f e r r a r e
--  Fem Plur nan nan nan nan nan s o r n j o n e
-ADJ nan Plur nan nan nan nan nan n a n
--  nan Sing nan nan nan nan nan r i s e r v a r e
--  Masc Sing nan Past nan nan Part r e k l a m a r e
--  Masc Sing nan Past nan nan Part f r u l l a r e
--  Masc Sing nan nan nan nan nan a s s e s t a r e
--  Fem Plur nan nan nan nan nan i n c i s j o n e
--  Fem Plur nan nan nan nan nan d e b o l e z z a
--  Fem Plur nan Past nan nan Part e s k l u s a
--  Masc Plur nan Past nan nan Part d i v e n t a r e
-NOUN Fem Plur nan nan nan nan nan n a n
--  nan Plur nan nan nan nan nan i r r e s p o n s a b i l e
--  Fem Plur nan nan nan nan nan s p a r a t O r j a
--  nan Sing 3 Pres nan Ind Fin r i b a t t e r e
--  nan nan nan nan nan nan nan i m b o k k a r e
--  Masc Sing nan Past nan nan Part s t r a v O l g e r e
--  nan nan nan nan nan nan Ger p j O v e r e
--  nan Plur 3 Pres nan Sub Fin S O L L e r e
--  Masc Sing nan Past nan nan Part s k a m b j a r e
--  nan nan nan nan nan nan Ger d u r a r e
--  Fem Sing nan nan nan nan nan f a r f a l l o n e
--  nan Plur 3 Pres nan Ind Fin a b i t a r e
-ADJ Masc Plur nan nan nan nan nan p e r i O d i k o
-ADJ Fem Sing nan nan nan nan nan n a n
--  nan Sing 1 Imp nan Sub Fin E s s e r e
-ADJ Fem Sing nan nan nan nan nan a g g u n t a
--  Fem Sing nan nan nan nan nan k r i t i k a r e
-ADJ Masc Plur nan nan nan nan nan n a n
-ADJ nan Plur nan nan nan nan nan n a n
--  Masc Sing nan Past nan nan Part t r a v e s t i r e
--  nan Plur 3 Pres nan Ind Fin s k a m b j a r e
-ADJ Masc Sing nan nan nan nan nan n a n
--  nan nan nan nan nan nan Ger r a b b r i v i d i r e
--  Masc Plur nan Past nan nan Part s o v r a f f o l l a t o
--  Masc Plur nan nan nan nan nan a s s e s s o r e
--  Masc Sing nan nan nan nan nan n o t i f i k a r e
--  Fem Sing nan Past nan nan Part s t a m p a t o
--  Masc Plur nan Past nan nan Part s b a r a L L a r e
--  Fem Sing nan Past nan nan Part a s s o r t i t o
--  nan Plur 3 Imp nan Ind Fin f i s s a r e
-ADJ Fem Plur nan nan nan nan nan n a n
--  Masc Plur nan nan nan nan nan k a m p j o n c i n o
-ADJ nan Plur nan nan nan nan nan n a n
--  nan Plur 3 Imp nan Sub Fin k o n k l u d e r e
-NOUN Masc Plur nan nan nan nan nan n a n
--  Fem Sing nan Past nan nan Part p o t e n z j a r e
--  Masc Sing nan Past nan nan Part i m b j a n k a r e
--  Masc Plur nan nan nan nan nan k a m p j E l l o
--  nan nan 3 nan 1PD nan Inf k o n t O r c e r e
--  Masc Plur nan nan nan nan nan m i n i m i Z Z a r e
--  Masc Plur nan Past nan nan Part s m a s k e r a r e
-ADJ nan Plur nan nan nan nan nan n a n
--  Masc Plur nan nan nan nan nan m e r l u z z o
--  nan Sing 2 nan 2SD nan Inf m o s t r a r e
-NOUN Masc Plur nan nan nan nan nan e s p o r t a t o r e
--  nan Sing 1 nan 1SD nan Inf m a n k a r e
--  Fem Sing nan nan nan nan nan r e s t i o
--  nan Plur nan nan nan nan nan f l u E n t e
-VERB nan nan nan nan nan nan Ger n a n
--  Masc Sing nan Past nan nan Part d i s s i m u l a r e
--  nan Plur nan nan nan nan nan G o d i b i l e
--  nan Sing 3 Imp nan Sub Fin d i v e r t i r e
--  Fem Sing nan Past nan nan Part p r e s j E d e r e
--  Fem Sing nan nan nan nan nan o t t a v o
--  Fem Plur nan Past nan nan Part m u t i l a t o
-ADJ Fem Plur nan nan nan nan nan n a n
-VERB Masc Sing 3 nan 3SD nan Inf n a n
--  Masc Sing nan Past nan nan Part r i k o m i n c a r e
--  nan nan nan nan nan nan Inf s a l t a r e
--  Masc Plur nan nan nan nan nan O l j o
-ADJ Fem Sing nan nan nan nan nan n a n
--  nan nan nan nan 1SD nan Inf i n d u r r e
--  nan Plur 2 nan 2PD nan Inf a j u t a r e
--  nan Sing 3 Imp nan Ind Fin l i m i t a r e
--  nan Sing 3 Pres nan Cnd Fin r i f a r e
--  nan nan 3 nan 1PD nan Inf i n s t a w r a r e
--  nan Plur 3 Imp nan Ind Fin o s a r e
--  Masc Sing 3 nan 3PD nan Inf s u g g e r i r e
-NOUN Fem Plur nan nan nan nan nan n a n
--  nan Sing 3 Imp nan Ind Fin e s p l o r a r e
--  Masc Plur nan nan nan nan nan s O m a l o
--  Masc Sing 3 nan 3SD nan Inf s t a k k a r e
--  nan Sing 2 Pres nan Imp Fin r i v e s t i r e
--  nan Sing 1 nan 1SD nan Inf p o s s e d e r e
--  Masc Plur nan Past nan nan Part d o t a r e
-NOUN Masc Plur nan nan nan nan nan i n t e G r a t o r e
-ADJ nan Plur nan nan nan nan nan n a n
--  Masc Sing nan Past nan nan Part a r r a f f a r e
--  nan Sing 3 Imp nan Sub Fin d i p E n d e r e
--  Fem Plur nan Past nan nan Part k o n s i L L a r e
-VERB nan Plur 3 Pres nan Ind Fin n a n
--  Fem Plur nan nan nan nan nan a d d e n s a r e
--  Fem Plur nan nan nan nan nan s t e p p a
--  nan Plur 2 Pres nan Ind Fin p r o p o r r e
--  Masc Plur nan Past nan nan Part d i m e t t e r e
-NOUN Fem Plur nan nan nan nan nan n a n
--  nan Plur 3 Fut nan Ind Fin v e n i r e
--  Masc Sing nan Past nan nan Part k u c i r e
--  nan Plur 1 nan 1PI nan Inf a b i t u a r e
--  nan Sing 3 Imp nan Ind Fin s t r a v e d e r e
--  nan Sing nan nan nan nan nan m O r d e r e
--  nan Plur nan nan nan nan nan s b a t t e r e
--  Masc Plur nan nan nan nan nan a t e n E o
--  Fem Plur nan Past nan nan Part k o n f e r m a r e
--  Fem Sing nan nan nan nan nan i m p j e G a r e
--  Masc Plur nan nan nan nan nan f e l i n o
--  Masc Plur nan nan nan nan nan r i s k j o
--  nan nan nan nan nan nan nan k o n v i n c e r e
--  Masc Sing nan Past nan nan Part p a G a r e
--  nan Sing 2 Pres nan Ind Fin l a S S a r e
--  nan nan nan nan nan nan Ger s e m i n a r e
--  Fem Sing nan nan nan nan nan i m p a c c a t o
--  nan nan nan nan nan nan nan l e o n e
-ADJ Masc Plur nan nan nan nan nan n a n
--  Masc Plur nan nan nan nan nan i l
--  nan Plur nan nan nan nan nan p o l i t i k a n t e
--  Masc Sing nan Past nan nan Part d i r o t t a r e
-ADJ Fem Plur nan nan nan nan nan n a n
--  Fem Plur nan nan nan nan nan t E k a
--  nan Sing 3 Past nan Ind Fin d E d i t o
--  nan Sing 3 Pres nan Cnd Fin s v a n i r e
--  Masc Plur nan nan nan nan nan f u n e s t a r e
--  Masc Plur nan nan nan nan nan n e m i k o
--  nan nan nan nan nan nan Ger p r o v a r e
-NOUN Fem Plur nan nan nan nan nan k o n s u l t a r e
--  nan Plur 3 Pres nan Ind Fin d i s s o c a r e
--  nan Plur nan nan nan nan nan k o n v i n c E n t e
--  nan Plur 3 Imp nan Sub Fin r j u S S i r e
--  nan nan 3 nan 1PI nan Ger a v v i c i n a r e
--  Fem Sing nan Past nan nan Part d e d i k a r e
--  Masc Plur nan nan nan nan nan r i n o c e r o n t e
--  nan Plur 3 Pres nan Ind Fin s e r b a r e
--  Masc Sing 3 nan 3SD nan Inf f a r e
--  nan Plur 3 Imp nan Ind Fin k o l p i r e
--  Masc Sing nan nan nan nan nan d i r i m e r e
-VERB nan Sing 3 Pres nan Cnd Fin a m m a n k o
--  Masc Plur nan nan nan nan nan a s s e d j a t o
-NOUN Masc Plur nan nan nan nan nan a k k a n i t o
--  Masc Sing nan Past nan nan Part a p p r o n t a r e
--  Fem Sing nan Past nan nan Part a k k O l t o
-NOUN Fem Plur nan nan nan nan nan a k k a d e r e
--  nan Plur 3 Fut nan Ind Fin r i p a r t i r e
--  nan nan nan nan 3SDA nan Inf k o n s t a t a r e
--  Fem Sing nan Past nan nan Part u s a r e
--  nan Sing 3 Pres nan Ind Fin f o r m i k o l a r e
--  nan Sing 3 Pres nan Ind Fin b a l l a r e
-ADJ Fem Sing nan nan nan nan nan n a n
--  nan Plur 3 Imp nan Ind Fin i l l u m i n a r e
--  nan nan nan nan 3SDA nan Ger i n v e n t a r e
--  Fem Plur nan nan nan nan nan t r o m b a
--  nan nan nan nan nan nan Inf a v e r e
--  Masc Sing nan Past nan nan Part r e G o l a r e
--  nan nan nan nan nan nan nan k o o r d i n a r e
--  nan Sing 2 Pres nan Ind Fin a v e r e
--  Fem Plur nan Past nan nan Part a m m i r a r e
--  Masc Sing nan Past nan nan Part r e c i d e r e
--  Fem Plur nan nan nan nan nan k r o c e
--  nan nan nan nan nan nan nan b a t t e r e
--  Masc Sing nan nan nan nan nan i n i z z j a r e
--  nan nan 3 nan 1PD nan Ger d i v e r t i r e
-ADJ Fem Sing nan nan nan nan nan n a n
--  Masc Sing nan Past nan nan Part s t r e G a r e
--  Fem Plur nan nan nan nan nan s e r a
--  Masc Plur nan Past nan nan Part r i v O l g e r e
-ADJ Fem Sing nan nan nan nan nan n a n
--  Fem Sing nan Past nan nan Part i n t r e c c a r e
--  Fem Plur nan nan nan nan nan k w e s t j o n e
--  Masc Plur nan nan nan nan nan k a r a t t e r e
--  nan nan nan nan nan nan Inf d a r e
--  nan Plur 3 Pres nan Ind Fin f a l l i r e
--  nan Sing 3 Pres nan Ind Fin d i f E n d e r e
--  Masc Plur,Sing 2,3 Pres 2PD Imp Fin g o v a r e
--  Masc Plur nan nan nan nan nan m e m o r j a l e
--  nan Sing 3 Imp nan Ind Fin s k o r r e r e
--  Fem Plur nan nan nan nan nan m E d j o
--  Masc Sing 3 nan 3SD nan Inf k j E d e r e
--  Masc Plur nan nan nan nan nan p e t t e G o l o
--  Fem Plur nan nan nan nan nan i n a d e G w a t e z z a
--  nan nan nan nan 3SDA nan Inf k o n d i v i d e r e
--  Fem Plur nan nan nan nan nan t O z z o
-VERB Masc Sing nan Past nan nan Part n a n
--  nan nan nan nan nan nan Ger s k o n g u r a r e
--  Masc Plur nan nan nan nan nan l i b e r a l i Z Z a r e
--  Fem Sing nan nan nan nan nan k o m p j u t e r i Z Z a t o
--  nan Plur 1 nan 1PI nan Inf p r E n d e r e
--  nan nan 3 nan 1PD nan Inf a r r o k k a r e
--  Fem Plur nan Past nan nan Part d e m o l i r e
--  Fem Sing nan Past nan nan Part p r o v o k a r e
--  Fem Plur nan nan nan nan nan t r a s p o r t a r e
--  nan Sing 2 Pres nan Ind Fin S e n d e r e
--  Masc Plur nan nan nan nan nan v a k w o
--  nan nan 3 nan 1SD nan Ger d a r e
--  nan Sing 2 Fut nan Ind Fin p e r d o n a r e
--  Masc Plur nan nan nan nan nan s o s t e N N o
--  Masc Plur nan nan nan nan nan f u g g a s k o
--  Masc Plur nan nan nan nan nan k o r r e t t o r e
--  nan Plur 3 Imp nan Ind Fin s e d e r e
--  nan Plur 3 Pres nan Sub Fin s o s p E n d e r e
--  Fem Plur nan nan nan nan nan m e l l i f l u o
--  Masc Sing nan nan nan nan nan c e r k a r e
--  Masc Sing nan Past nan nan Part d u b i t a r e
--  nan Sing 3 Imp nan Ind Fin k o n f e z z j o n a r e
--  Masc Plur nan nan nan nan nan l o r d o
--  Fem Sing nan Past nan nan Part a l l a G a t o
-NOUN Masc Plur nan nan nan nan nan n a n
--  Masc Plur nan nan nan nan nan f a m i L L a r e
-NOUN Fem Plur nan nan nan nan nan r i t i r a r e
--  nan Sing 3 Imp nan Sub Fin i m b a t t e r e
--  Masc Plur nan nan nan nan nan r e s p O n s o
--  nan Sing 1 Fut nan Ind Fin l i b e r a r e
--  nan Plur 1 nan 1PI nan Inf p r o t E g g e r e
-ADJ Fem Sing nan nan nan nan nan n a n
--  Masc Sing nan nan nan nan nan l a v o r a r e
--  nan Sing 3 Pres nan Ind Fin t O L L e r e
--  nan Sing 3 Pres nan Ind Fin i n t e r v e n i r e
--  Fem Sing nan Past nan nan Part p E r d e r e
--  Masc Plur nan Past nan nan Part s o l l e c i t a r e
--  nan Sing 3 Pres nan Ind Fin s o g g u n g e r e
--  nan Plur 3 Pres nan Ind Fin s p u n t a r e
--  Fem Plur nan Past nan nan Part f o r m a r e
--  nan Plur 1 Fut nan Ind Fin f a l l i r e
--  Masc Plur nan nan nan nan nan E n d o k r i n O l o G o
-ADJ nan nan nan nan nan nan nan n a n
-NOUN Masc Plur nan nan nan nan nan n a n
--  nan Plur 1 Imp nan Ind Fin t o r n a r e
-ADJ Fem Plur nan nan nan nan nan n a n
--  Masc Plur nan Past nan nan Part o p e r a r e
-NOUN Fem Plur nan nan nan nan nan n a n
--  nan Sing 3 Imp nan Ind Fin s e N N a l a r e
--  nan Plur,Sing 1,2 Pres Yes Imp Fin r i m p j a n g e r e
--  Masc Plur nan nan nan nan nan a s t r O n o m o
--  Masc Sing nan Past nan nan Part p e d i n a r e
--  Masc Sing nan Past nan nan Part i s s a r e
--  Masc Plur nan nan nan nan nan s p e r a r e
--  Masc Plur nan nan nan nan nan p a c i f i s t a
--  nan Sing 3 Imp nan Ind Fin p r o t e s t a r e
--  nan Plur 3 Pres nan Ind Fin k a m m i n a r e
--  Masc Plur nan Past nan nan Part r i k o p r i r e
--  nan Sing 3 Imp nan Ind Fin u d i r e
--  Masc Sing nan Past nan nan Part f i n i r e
--  Fem Plur nan Past nan nan Part G r i f f a r e
-NOUN Fem Plur nan nan nan nan nan n a n
-NOUN Fem Plur nan nan nan nan nan n a n
-VERB nan Sing 2 nan 2SD nan Inf n a n
--  Masc Plur nan Past nan nan Part d a r e
--  Fem Plur nan nan nan nan nan k l a s s e
--  nan Plur 3 Imp nan Ind Fin o b b e d i r e
-NOUN Fem Plur nan nan nan nan nan n a n
-VERB nan nan nan nan nan nan Ger n a n
--  nan Sing 3 Pres nan Ind Fin r i n f r e s k a r e
-ADJ Fem Sing nan nan nan nan nan n a n
--  nan Sing 3 Imp nan Ind Fin r a d u n a r e
--  nan Sing 3 Pres nan Ind Fin v e d e r e
--  nan Plur 3 Imp nan Ind Fin s k o r g e r e
--  Masc Sing nan Past nan nan Part i n S e n a r e
--  Masc Plur nan Past nan nan Part t r a v O l g e r e
-ADJ Masc Plur nan nan nan nan nan n a n
--  Fem Plur nan nan nan nan nan r i p a r t i r e
-NOUN Masc Plur nan nan nan nan nan n a n
--  nan Plur 3 Past nan Ind Fin p e k k a r e
--  nan Plur nan nan nan nan nan f r e k w e n t a r e
--  nan nan 3 nan 1PD nan Ger i n o l t r a r e
--  Fem Sing nan Past nan nan Part s t r o f i n a r e
--  Fem Sing nan nan nan nan nan f u r i b o n d o
--  Masc Plur nan nan nan nan nan a E r e o
--  nan Sing 3 Imp nan Sub Fin r E n d e r e
--  nan Plur 1 Imp nan Ind Fin b a d a r e
--  Masc Plur nan nan nan nan nan s t i r a r e
--  Masc Sing 3 nan 3SD nan Inf k a t t u r a r e
--  Masc Sing nan nan nan nan nan k j a m a r e
--  Masc nan nan nan nan nan nan a m p l i a r e
--  nan nan nan nan nan nan nan p e g g o r a r e
--  nan Plur 1 Pres nan Ind Fin n o l e g g a r e
--  nan Plur 3 Pres nan Ind Fin p i l o t a r e
--  nan Plur 3 Pres nan Ind Fin i n f j e r i r e
--  Masc Plur 3 nan 3PD nan Inf d i s t r i b u i r e
--  Fem Sing nan Past nan nan Part a p p a r e k k j a r e
--  Masc Sing nan Past nan nan Part d o k u m e n t a r e
--  Masc Plur nan nan nan nan nan l i b r a r e
--  nan Plur nan nan nan nan nan k o n v e r t i b i l e
--  Fem Plur nan nan nan nan nan s t a g o n e
--  nan Plur 3 Past nan Ind Fin a p p r o d a r e
--  nan nan 3 nan 1PD nan Inf l e G a r e
--  nan Sing 1 Pres nan Ind Fin r i v e d e r e
-NOUN Masc Plur nan nan nan nan nan n a n
-ADJ Masc Plur nan nan nan nan nan n a n
--  nan Plur 3 Fut nan Ind Fin a s s i k u r a r e
--  nan nan 3 nan 1PD nan Inf p o r g e r e
--  Fem Plur nan nan nan nan nan r e p r E s s o
--  nan Sing 3 Pres nan Sub Fin b r u c a r e
--  Masc Sing nan nan nan nan nan a f f o l l a r e
-ADJ nan Plur nan nan nan nan nan a t t i v o
--  Fem Sing nan nan nan nan nan r a g g e l a r e
--  Fem Plur nan nan nan nan nan a s s i d w o
-ADJ Masc Plur nan nan nan nan nan n a n
--  nan nan nan nan nan nan nan d i
--  nan Plur 3 Pres nan Ind Fin E s s e r e
--  Masc Plur nan nan nan nan nan a w G u r j o
--  Masc Sing nan nan nan nan nan a g i t a r e
-ADJ Fem Sing nan nan nan nan nan l u n a t i k o
--  nan Sing 3 Imp nan Ind Fin f o r m a r e
--  nan nan 3 nan 1PD nan Inf r i s k a t t a r e
--  nan Sing 2 Pres nan Ind Fin r e G a l a r e
--  Fem Plur nan nan nan nan nan d i r e
--  nan Plur nan nan nan nan nan f r a n c e s e
--  nan Sing 3 Past nan Ind Fin i m p o r r e
-NOUN Masc Plur nan nan nan nan nan n a n
--  nan Plur 3 Pres nan Ind Fin t r a d u r r e
--  Fem Plur nan Past nan nan Part t r a s f e r i r e
--  nan Sing 3 Pres nan Ind Fin i n v e n t a r e
--  Fem Sing nan nan nan nan nan t a m b u r e g g a r e
--  Masc Sing 3 nan Yes nan Inf b a d a r e
--  Fem Plur nan nan nan nan nan p r e s u n t o
--  Masc Sing 3 nan 3PD nan Inf r i k j E d e r e
--  Fem Sing nan nan nan nan nan a p p r o f i t t a r e
--  Fem Plur nan Past nan nan Part a l l a c c a r e
--  Fem Sing nan Past nan nan Part r i s t r u t t u r a r e
--  Fem Sing nan nan nan nan nan d e p o s i t a r e
-ADJ Fem Sing nan nan nan nan nan n a n
--  Fem Plur nan Past nan nan Part d e k a n t a r e
+ADJ -  Fem Sing nan nan nan nan nan n o s t a l g
+- X nan nan nan nan nan nan nan d i e
+- NOUN Fem nan nan nan nan nan nan t r a n s i g e r e
+- VERB nan Plur 3 Past nan Ind Fin p j e G a r e
+- ADJ nan Sing nan nan nan nan nan s t a t u n i t E n s e
+- VERB nan nan nan nan nan nan Inf a s s e N N a r e
+- NOUN Fem nan nan nan nan nan nan s e l c e
+- VERB Masc Plur nan Past nan nan Part t r a v O l g e r e
+- NOUN Fem Plur nan nan nan nan nan v i N N e t t a
+- NOUN Masc Plur nan nan nan nan nan m e l l o n i
+- VERB Masc Plur 3 nan 3PD nan Inf r i v e n d e r e
+- NOUN Fem Sing nan nan nan nan nan a z z j o n e
+- VERB Fem Plur nan Past nan nan Part v a L L a r e
+NOUN -  Fem Sing nan nan nan nan nan s d r a m m a t i Z Z
+- VERB Masc Plur nan Past nan nan Part k o m p r E n d e r e
+- VERB nan Plur 3 Past nan Ind Fin k o n o S S e r e
+- PRON Fem Plur 3 nan nan nan nan e s s o
+- VERB nan Sing 1 Fut nan Ind Fin g u r a r e
+- NOUN Fem Sing nan nan nan nan nan p o r k e r i a
+- VERB nan nan nan nan nan nan Inf i p e r k o o p
+- NOUN Fem Sing nan nan nan nan nan a v j O n i k a
+- VERB Masc Sing 3 nan 3SD nan Inf b o m b a r d a r e
+- NOUN Masc Sing nan nan nan nan nan g o j E l l o
+- ADJ Masc Sing nan nan nan nan nan p a L L e r i n o
+- NOUN Fem Sing nan nan nan nan nan r E o
+- NOUN Fem Plur nan nan nan nan nan f a w c i
+- VERB nan Sing 2 Pres nan Imp Fin a g i r e
+- ADJ Fem Sing nan nan nan nan nan m i l l E s i m o
+- VERB Masc Sing nan Past nan nan Part r i t e n e r e
+ADJ -  nan Sing nan nan nan nan nan a n t i f a S S
+- NOUN Masc Sing nan nan nan nan nan t r a v a L L o
+- ADJ nan Sing nan nan nan nan nan l a v o r a n t e
+- VERB nan Sing 3 Imp nan Ind Fin k o n t e s t a r e
+- ADJ Fem Plur nan nan nan nan nan r i v o l u z z j o n a r j o
+- ADJ nan Sing nan nan nan nan nan p a r a m i l i t a r e
+- ADJ Fem Plur nan nan nan nan nan a n O n i m o
+- NOUN Fem Sing nan nan nan nan nan g O j a
+- VERB nan Sing 3 Pres nan Sub Fin t r a t t e n e r e
+- NOUN Masc Sing nan nan nan nan nan k a p o s t i p i t e
+- VERB Fem Plur nan Past nan nan Part G o n f j a r e
+- ADJ Masc Sing nan nan nan nan nan m a d r i l E n o
+- ADJ Fem Plur nan nan nan nan nan k o l p o s o
+- VERB Masc Plur nan Past nan nan Part u m i l j a t o
+- NOUN Fem Sing nan nan nan nan nan s i m o n e t t i
+- ADJ Fem Plur nan nan nan nan nan k o n t r a s t a t o
+- PROPN nan nan nan nan nan nan nan m a s k o l i n i t a
+- VERB nan Plur 3 Pres nan Ind Fin a n d a r e
+VERB -  nan Plur 3 Pres nan Ind Fin s o v r u m
+- VERB nan nan nan nan 3SDA nan Inf t r i t a k a r n e
+- VERB Masc Sing nan Past nan nan Part r e k a p i t a r e
+- ADJ Fem Sing nan nan nan nan nan n e r a
+- NOUN Masc Sing nan nan nan nan nan E G o
+- NOUN Fem Sing nan nan nan nan nan f j a b a
+- NOUN Fem Sing nan nan nan nan nan m e n t i t o
+- ADJ Fem Plur nan nan nan nan nan r e i t e r a t o
+- ADJ Fem Sing nan nan nan nan nan r i a b b r a c c a r e
+- ADJ nan Sing nan nan nan nan nan m a k k a r e s e
+- PROPN nan nan nan nan nan nan nan k a r a z z o l o
+- NOUN Fem Plur nan nan nan nan nan m a r m O t t a
+- ADJ nan Plur nan nan nan nan nan a s o l i
+- PRON Masc Plur nan nan nan nan nan m a n d E l l i
+- NOUN Masc Sing nan nan nan nan nan s e m i k o n v i t t o
+- VERB Fem Plur nan Past nan nan Part v e r s a r e
+- NOUN Masc Sing nan nan nan nan nan s o N N a t o r e
+- NOUN nan nan nan nan nan nan nan s E k t o r
+- NOUN Fem Sing nan nan nan nan nan m E r d a
+- VERB nan nan 3 nan 1PD nan Inf r i p r o d u r r e
+ADJ -  nan Sing nan nan nan nan nan c i v i l
+- NOUN Masc nan nan nan nan nan nan a l b o
+- ADJ nan Sing nan nan nan nan nan k o m u n a l e
+- NOUN Fem Sing nan nan nan nan nan s a k r e s t i a
+- VERB nan Plur 3 Past nan Ind Fin m i s e r o
+- NOUN Fem Plur nan nan nan nan nan c a r l a t a n e r i a
+- VERB Masc Sing nan Past nan nan Part p a r m i g a n i n o
+- ADJ nan Sing nan nan nan nan nan k a s i l e
+- ADJ Fem Sing nan nan nan nan nan s u p e r p a G a t o
+- NOUN Fem Sing nan nan nan nan nan p e r a
+- NOUN Fem Sing nan nan nan nan nan c i k l o s t r a d a
+- NOUN Masc Sing nan nan nan nan nan s p i n t e r O g e n o
+- ADJ Masc Sing nan nan nan nan nan k a s s i n o
+- VERB nan nan nan nan nan nan Inf a w r i n j a
+- NOUN Masc Sing nan nan nan nan nan m o n d o
+- ADJ nan Sing nan nan nan nan nan k o r r E n t e
+ADJ -  Masc Sing nan nan nan nan nan e l E t t r o t E k n
+- VERB nan Plur 3 Imp nan Ind Fin p e n s a r e
+- VERB Masc Sing nan Past nan nan Part a G G r e G a t o
+- NOUN Fem Sing nan nan nan nan nan i s k e m i a
+- VERB Masc Sing nan Past nan nan Part s i s t e m a r e
+- ADJ Masc Sing nan nan nan nan nan b a s a r e
+- VERB Fem Sing nan Past nan nan Part a k k r e S S e r e
+- ADJ Masc Sing nan nan nan nan nan m a l i n k O n i k o
+- ADJ Fem Plur nan nan nan nan nan k o d e l u p p i
+- VERB nan nan nan nan nan nan Inf m E s n e r
+- NOUN Fem Sing nan nan nan nan nan s a p j E n z a
+NOUN -  Fem Plur nan nan nan nan nan r a p p r e s e n t
+- ADJ Fem Plur nan nan nan nan nan t o r n a v a k k a
+- VERB Masc Sing nan Past nan nan Part i n v e r t i r e
+- VERB Masc Sing 3 nan 3PD nan Inf k a p i t a r e
+- VERB Masc Plur nan Past nan nan Part a k k w i s i r e
+- VERB Masc Sing 3 nan 3SD nan Inf s p o L L a r e
+- NOUN Fem Sing nan nan nan nan nan r e c e n s j o n e
+- NOUN Fem Sing nan nan nan nan nan a p o k a l i s s e
+- ADJ Fem Sing nan nan nan nan nan a l t e r a t o
+- VERB Masc Sing nan Past nan nan Part t e n t a r e
+- NOUN Fem Plur nan nan nan nan nan m e t o d o l o g i a
+ADV -  nan nan nan nan nan nan nan p a z z j e n
+- ADJ Masc Sing nan nan nan nan nan b a s k o
+- NOUN Fem Plur nan nan nan nan nan m u k k a
+- PRON nan Sing 2 nan 2SD nan nan t u
+- PROPN nan nan nan nan nan nan nan s p a z z a n e v e
+- VERB nan Sing 2 Pres 1PD Imp Fin a v a n z a r e
+- NOUN Masc Sing nan nan nan nan nan a d a m a n t i n o
+- PROPN nan nan nan nan nan nan nan s e b O r G a
+- VERB nan nan nan nan nan nan Inf i m b a n d i r e
+- VERB nan nan nan nan nan nan Inf v e n t i l a r e
+- NOUN Masc Sing nan nan nan nan nan g E n e r e
+- VERB nan Sing 3 Imp nan Sub Fin e s p r i m e r e
+- VERB nan Plur 3 Pres nan Ind Fin s t e r r a t o r e
+NOUN -  Masc Sing nan nan nan nan nan t a L L
+- VERB Masc Sing 3 nan Yes nan Inf f e r r a r i s
+NOUN -  Fem Plur nan nan nan nan nan i n t e r r o G
+- NOUN Fem Plur nan nan nan nan nan p r o f e z z i a
+- VERB Masc Sing nan Past nan nan Part l i b i t o
+- VERB Fem Sing 3 nan 3SIF nan Inf r i k o s t r u i r e
+- ADJ Fem Sing nan nan nan nan nan k o n s a k r a t o
+- VERB Masc Sing nan Past nan nan Part a k k O s t o
+- NOUN Masc Sing nan nan nan nan nan k o n f r o n t a r e
+- NOUN Masc Sing nan nan nan nan nan v i v i m i l a n o
+- NOUN Masc Plur nan nan nan nan nan f w O k o
+- NOUN Masc nan nan nan nan nan nan c i p
+VERB -  Masc Plur nan Past nan nan Part r u b
+NOUN -  Masc Sing nan nan nan nan nan a c c e r t
+NOUN -  Fem Sing nan nan nan nan nan d i s s i m u l
+- VERB Fem,Masc Sing 3 Past 3PD nan Part n o m i n a r e
+- NOUN Masc Sing nan nan nan nan nan p o t e n z j a l e
+- VERB nan Sing 3 Imp nan Ind Fin v i v e r e
+- NOUN nan Sing nan nan nan nan nan e s i b i z z j o n i s t a
+NOUN -  Fem Plur nan nan nan nan nan c e r t i f
+- VERB Fem Sing nan Past nan nan Part i n d i r e
+- ADJ Fem Sing nan nan nan nan nan n O r d k o r e a n o
+- AUX nan Sing 3 Pres nan Cnd Fin b O s i
+- VERB nan Sing 3 Pres nan Ind Fin i s p i r a r e
+- PROPN nan nan nan nan nan nan nan d i E G o
+- VERB nan nan 3 nan 1PD nan Inf f i k k a r e
+- VERB Masc Sing nan Past nan nan Part s o t t i n t E n d e r e
+- PROPN nan nan nan nan nan nan nan a m E b a
+- VERB Masc Plur nan Past nan nan Part r i p a r a r e
+- ADJ Fem Sing nan nan nan nan nan b e k k a r i a
+- VERB nan nan nan nan nan nan Ger e s p l O d e r e
+- VERB Fem Sing nan Past nan nan Part p a r i t a
+- VERB nan Sing 1 Pres nan Cnd Fin l a S S a r e
+- NOUN Fem Plur nan nan nan nan nan p o t E n z a
+- PRON Masc Plur nan nan nan nan nan t u o
+- VERB nan nan nan nan nan nan Ger a g g u s t a r e
+- NOUN Fem Sing nan nan nan nan nan r a p p r e s a L L a
+- NOUN Masc Sing nan nan nan nan nan v i d e o t e l E f o n o
+- NOUN Fem Sing nan nan nan nan nan k a p i l i n e a
+- VERB nan Plur 3 Fut nan Ind Fin a l z a r e
+- VERB nan Plur 1 Imp nan Sub Fin m e t t e r e
+- VERB Masc Sing nan Past nan nan Part r i n v e n i r e
+- ADJ Fem Sing nan nan nan nan nan t o n d o
+- ADJ Fem Sing nan nan nan nan nan g i t a n a
+- VERB Masc Plur 3 nan 3PD nan Inf r i n k j u d e r e
+ADJ -  Fem Plur nan nan nan nan nan a l l u s
+- ADJ nan Plur nan nan nan nan nan G a w d E n t i
+- VERB Masc Sing 3 nan Yes nan Inf d j a d E m a
+NOUN -  Masc Sing nan nan nan nan nan m a k j a v e l l i
+- PROPN nan nan nan nan nan nan nan t r a s k o r r e r e
+- NOUN Fem Plur nan nan nan nan nan v e r d u r i n i
+- AUX nan Plur 3 Pres nan Cnd Fin c a w r E l i
+- VERB nan Sing 3 Imp nan Ind Fin i n s e r i r e
+- VERB Fem Sing nan Past nan nan Part a n n u n c a r e
+- NOUN Masc Sing nan nan nan nan nan s o l o
+- NOUN Fem Plur nan nan nan nan nan r a p i n a
+- ADJ nan Sing nan nan nan nan nan a l b e n i z
+- ADJ Masc Sing nan nan nan nan nan s E v e s o
+- NOUN Masc Plur nan nan nan nan nan a b i t a r e
+- VERB Fem Sing nan Past nan nan Part e r t a
+- VERB Masc Sing nan Past nan nan Part k o o r d i n a r e
+- PRON Masc Sing 3 nan 3SD nan nan l o
+- VERB nan Sing 2 Pres nan Ind Fin v e n d e r e
+- ADJ nan Plur nan nan nan nan nan s f u g g E n t e
+- NOUN Masc Plur nan nan nan nan nan o r e s t i a d i
+- NOUN Masc Sing nan nan nan nan nan m a t t i n a
+- NOUN Fem Sing nan nan nan nan nan d e c i s j o n e
+- NOUN Masc Sing nan nan nan nan nan d e v O t o
+- VERB nan Plur 3 Imp nan Ind Fin v i a g g a r e
+- ADJ nan Plur nan nan nan nan nan t e r m a l e
+- ADJ nan Sing nan nan nan nan nan i n t e r r a z z j a l e
+- ADJ Masc Plur nan nan nan nan nan k O m i k o
+- VERB Masc Plur nan Past nan nan Part s e k w e s t r a r e
+- ADJ Fem Sing nan nan nan nan nan d i s i n v O l t o
+- VERB nan Sing 3 Pres nan Sub Fin b E n s i
+- PROPN nan nan nan nan nan nan nan b a r t o l i n i
+- NOUN Masc Sing nan nan nan nan nan s e m e
+- ADJ Fem Plur nan nan nan nan nan s e i n e
+- VERB Fem Plur nan Past nan nan Part i n k o m i n c a r e
+- VERB nan nan nan nan nan nan Inf u l t i m a r e
+- VERB Fem Sing nan Past nan nan Part i d e n t i f i k a r e
+- VERB nan Sing 3 Past nan Ind Fin s v O l g e r e
+- PROPN nan nan nan nan nan nan nan b u s k a
+- VERB nan nan nan nan nan nan Inf l a n c a r e
+- VERB nan nan nan nan nan nan Inf t r a i n a r e
+- VERB nan Sing 3 Imp nan Ind Fin a l l e v a r e
+- ADJ Masc Sing nan nan nan nan nan b a s t a r d o
+- ADJ Masc Plur nan nan nan nan nan k o m o d i n o
+- VERB Masc Plur nan Past nan nan Part s G r e t o l a t o
+- VERB nan Plur 3 Pres nan Ind Fin s b a r d e l l j a n o
+- VERB Fem Plur nan Past nan nan Part v e n i r e
+- CCONJ nan nan nan nan nan nan nan e t
+NOUN -  Fem Plur nan nan nan nan nan a s s i s t E
+- NOUN Masc Plur nan nan nan nan nan s i r i
+- VERB nan nan 3 nan 1PD nan Inf a t t r e z z a r e
+ADJ -  Fem Sing nan nan nan nan nan f e d e r
+- NOUN Masc Sing nan nan nan nan nan t u m o r e
+- NOUN Fem Sing nan nan nan nan nan s i d o n e
+- NOUN Masc nan nan nan nan nan nan r e
+- NOUN Fem Sing nan nan nan nan nan s p j e G a z z j o n e
+- VERB Masc Sing nan Past nan nan Part k o n v e r t i t o
+- ADJ Masc Plur nan nan nan nan nan d e l u d e r e
+- PROPN nan nan nan nan nan nan nan m o b i l
+- VERB Masc Plur nan Past nan nan Part k a r a t t e r i Z Z a t o
+- NOUN Fem Sing nan nan nan nan nan v i s u a l e
+- ADJ Fem Sing nan nan nan nan nan r i n f u s a
+- ADJ Fem Sing nan nan nan nan nan p e r s e k u t O r j o
+NOUN -  Fem Sing nan nan nan nan nan o r d i n
+- NOUN Masc Sing nan nan nan nan nan r a d d o p p j o
+- NOUN Fem Sing nan nan nan nan nan f o r m a
+VERB -  Fem Sing nan Past nan nan Part s p i
+- VERB nan Plur 3 Pres nan Sub Fin r i n u n c a r e
+ADJ -  Masc Plur nan nan nan nan nan e k o l O g
+- VERB nan nan nan nan nan nan Inf a b b a n d o n a r e
+NOUN -  Masc Sing nan nan nan nan nan i n t e r e s s
+ADV -  nan nan nan nan nan nan nan a k k a d e m
+- VERB nan Sing 3 Pres nan Ind Fin m o b i l i t a r e
+- NOUN Masc Plur nan nan nan nan nan k o r p i n o
+- VERB Masc Sing nan Past nan nan Part a m m a l a t o
+- ADJ nan Plur nan nan nan nan nan c e l e s t j a l e
+- NOUN Masc Sing nan nan nan nan nan G O b b o
+- NOUN Fem Plur nan nan nan nan nan v a r j a z z j o n e
+- VERB nan Plur 1 Imp nan Ind Fin f a r e
+- ADJ Fem Plur nan nan nan nan nan t E r s o
+- NOUN Masc Plur nan nan nan nan nan a m m a l a t o
+- VERB nan nan nan nan nan nan Inf S O L L e r e
+NOUN -  Masc Sing nan nan nan nan nan r i f o r n
+- NOUN Fem Sing nan nan nan nan nan l a v a n d e r i a
+- ADJ Masc Sing nan nan nan nan nan d i s o r j e n t a r e
+- VERB Masc Plur nan Past nan nan Part i n f l u e n z a r e
+- ADJ Masc Plur nan nan nan nan nan s p i c c o l o
+- PROPN nan nan nan nan nan nan nan m e s s i n a
+- ADJ nan Sing nan nan nan nan nan k o n n a z z j o n a l e
+- NOUN Fem Sing nan nan nan nan nan b u s s o l a
+- NOUN Masc Sing nan nan nan nan nan s u p p l e m e n t o
+- ADJ Fem Plur nan nan nan nan nan s o m m E r s o
+- PROPN nan nan nan nan nan nan nan e l
+- NOUN Fem Plur nan nan nan nan nan d O n n a
+ADJ -  Masc Sing nan nan nan nan nan m o n t e s p a k k
+- NOUN Fem Plur nan nan nan nan nan p a r e t e
+- VERB nan nan 3 nan 1PD nan Inf p r o f u m a r e
+- VERB nan nan 3 nan 1PD nan Ger k u r a r e
+ADJ -  nan Plur nan nan nan nan nan i n t e r e s s
+- VERB nan Sing 3 Pres nan Ind Fin s m e t t e r e
+- VERB Fem Plur nan Past nan nan Part a b o l i r e
+NOUN -  Fem Sing nan nan nan nan nan e c c e d E
+- VERB Masc Plur 3 nan 3PD nan Inf p e s t a r e
+- VERB nan Plur 3 Pres nan Ind Fin i m p o r r e
+- ADJ Fem Sing nan nan nan nan nan d a n n a r e
+- ADJ Masc Plur nan nan nan nan nan b a l j a n i
+- NOUN Masc Plur nan nan nan nan nan o p p o r r e
+- VERB nan Sing 3 Pres nan Ind Fin a c c e n n a r e
+- VERB Fem Sing 3 nan 3SDF nan Inf c a r l a
+ADJ -  Masc Plur nan nan nan nan nan o f f e n s
+- VERB nan Plur 3 Pres nan Ind Fin o f f r i r e
+- VERB Masc Sing 3 nan 3SD nan Inf s b a r k a r e
+- VERB Fem Sing nan Past nan nan Part b o l l a r e
+- AUX nan Plur 3 Imp nan Sub Fin p o t e r e
+- VERB nan nan nan nan nan nan Ger a w t o r i Z Z a r e
+- ADJ Fem Plur nan nan nan nan nan s p r i g o n a r e
+- PROPN nan nan nan nan nan nan nan a r r a s
+- ADJ nan Sing nan nan nan nan nan s d r a m m a t i Z Z a r e
+- VERB Masc Plur nan Past nan nan Part p e r k w i s i r e
+- ADJ Masc Plur nan nan nan nan nan l i z z e r i
+- VERB nan Sing 1 Pres nan Ind Fin a d o r a r e
+- VERB nan nan nan nan nan nan Inf v w o t a r e
+- PROPN nan nan nan nan nan nan nan p E p s i
+- VERB nan nan nan nan nan nan Ger f o k a l i Z Z a r e
+- VERB nan Plur 3 Fut nan Ind Fin p j a c e r e
+ADJ -  nan Plur nan nan nan nan nan i n k w j e t
+ADJ -  nan Plur nan nan nan nan nan e k l a t
+- VERB Masc Plur nan Past nan nan Part k r i m i n a l i z z a r e
+- VERB nan Sing 3 Pres nan Ind Fin s k j a f f e g g a r e
+- ADJ nan Sing nan nan nan nan nan l a m p a n t e
+- NOUN Masc Plur nan nan nan nan nan k a v a r e
+- NOUN Masc Sing nan nan nan nan nan b e r n a r d i n o
+- ADJ Masc Sing nan nan nan nan nan a w t o m a t i k o
+- ADJ Masc Sing nan nan nan nan nan k o n s o l a t O r j o
+ADV -  nan nan nan nan nan nan nan a m o r e v o l
+- NOUN Masc Plur nan nan nan nan nan G r i l l o
+- NOUN Fem Sing nan nan nan nan nan i m p e r s o n a r e
+- VERB Fem Sing nan Past nan nan Part r u b a r e
+- NOUN Fem Sing nan nan nan nan nan v e n t u r a
+- ADJ Masc Sing nan nan nan nan nan G o m m o s o
+ADV -  nan nan nan nan nan nan nan m e t o d o l o g
+- VERB Fem Plur nan Past nan nan Part a k k o m u n a r e
+NOUN -  Masc Sing nan nan nan nan nan m u l t i p
+- ADJ Masc Sing nan nan nan nan nan i m p e r f E t t o
+- NOUN Masc Sing nan nan nan nan nan d e b u t t o
+- ADJ Fem Plur nan nan nan nan nan m i t i k o
+- NOUN Fem Plur nan nan nan nan nan k a s E r m a
+ADJ -  Masc Plur nan nan nan nan nan t e r a p E w t
+- ADJ nan Sing nan nan nan nan nan a b r u z z e s e
+- VERB Fem Plur nan Past nan nan Part k o n s e n t i t o
+- NOUN Fem Plur nan nan nan nan nan s o r E l l a
+- VERB nan Plur 1 Pres nan Ind Fin g u s t i f i k a r e
+- NOUN Fem Sing nan nan nan nan nan k i k k e s s i a
+- VERB Fem Sing 3 nan Yes nan Inf p e d r a n e s k i
+- VERB Masc Sing nan Past nan nan Part i n k u r j o s i r e
+- VERB nan Plur 1 Fut nan Ind Fin k o n o S S e r e
+- VERB Masc Plur 3 nan 3PD nan Inf d i v e r s i f i k a r e
+- NOUN Masc Sing nan nan nan nan nan p e s k e t o
+- PROPN nan nan nan nan nan nan nan v e n t u r j E l l o
+- PROPN nan nan nan nan nan nan nan G o m O l k a
+- PROPN nan nan nan nan nan nan nan b a s a l d E l l a
+- NOUN Masc Plur nan nan nan nan nan k o l l a w d o
+- VERB nan nan nan nan nan nan Ger t r o v a r e
+- NOUN Fem Plur nan nan nan nan nan f u m a r e
+- NOUN Fem Plur nan nan nan nan nan b a n k a
+- NOUN Fem Sing nan nan nan nan nan t E r m i k o
+- PROPN nan nan nan nan nan nan nan O s s o l a
+- ADJ Masc Plur nan nan nan nan nan s o l E r i
+- NOUN Masc Sing nan nan nan nan nan a m o r e
+- NOUN Masc Sing nan nan nan nan nan k o r a l l i n o
+- VERB nan Sing 3 Pres nan Ind Fin c e l e b r a r e
+- NOUN Fem Sing nan nan nan nan nan f e n d i t u r a
+- NOUN Masc Sing nan nan nan nan nan b a r k o n e
+- VERB nan Sing 3 Pres nan Ind Fin i n G r a s s a r e
+- NOUN Masc Sing nan nan nan nan nan t r i b u n o
+- VERB nan nan nan nan nan nan Inf v e l o c i Z Z a r e
+- NOUN Masc Plur nan nan nan nan nan p r i v i l E g o
+NOUN -  Masc Sing nan nan nan nan nan i n a d e m p
+- VERB Masc Sing 2,3 Pres Yes Imp Fin k r e S S E n z j o
+- VERB nan nan nan nan nan nan Inf u G w a L L a r e
+- ADJ Masc Plur nan nan nan nan nan i m p u n i t o
+- PROPN nan nan nan nan nan nan nan i n G i l t E r r a
+- NOUN Masc Sing nan nan nan nan nan G l O b o
+- NOUN Masc Plur nan nan nan nan nan v e l t r o n i
+- NOUN Masc Plur nan nan nan nan nan p r o S S u t t o
+- NOUN Masc Plur nan nan nan nan nan k a n c e l l a r e
+- NOUN Fem Sing nan nan nan nan nan t r a k O l l a
+- NOUN Fem Sing nan nan nan nan nan s a r a c i n e s k a
+- PROPN nan nan nan nan nan nan nan s k o r r a z z a r e
+- VERB nan Sing 3 Past nan Ind Fin t a r a l l o
+- ADJ nan Sing nan nan nan nan nan G e i
+- NOUN Masc Plur nan nan nan nan nan r E d d i t o
+- ADJ Fem Plur nan nan nan nan nan f a n G o s o
+- PROPN nan nan nan nan nan nan nan m u s t a d
+NOUN -  Masc Plur nan nan nan nan nan f r a s k
+- ADJ nan Sing nan nan nan nan nan s t a g o n a l e
+- NOUN Fem Sing nan nan nan nan nan i n d i s s o l u b i l i t a
+- VERB Masc Sing nan Past nan nan Part d i S S i p l i n a t o
+- VERB nan nan nan nan nan nan Inf b u t t a r e
+- ADJ Fem Sing nan nan nan nan nan s e m i n a s k O s t o
+- NOUN Masc Plur nan nan nan nan nan k o s t o n e
+- NOUN nan nan nan nan nan nan nan k j a m p o
+NOUN -  Fem Sing nan nan nan nan nan d i s s o c
+ADV -  nan nan nan nan nan nan nan e s s e n z j a l
+- VERB nan nan nan nan nan nan Inf i m p r e k a r e
+- VERB nan Sing 3 Pres nan Ind Fin s i m u l a r e
+- NOUN Fem Sing nan nan nan nan nan s e r a
+- NOUN Fem Plur nan nan nan nan nan p r o m e t t e r e
+- VERB nan Sing 2 Pres nan Imp Fin k o n g e d a r e
+- NOUN Masc Sing nan nan nan nan nan l i v E l l o
+- NOUN Fem Plur nan nan nan nan nan t r i n c E a
+- ADJ Masc Sing nan nan nan nan nan G r a v i d o
+- NOUN Fem Sing nan nan nan nan nan f e s t i v i t a
+- VERB Masc Sing nan Past nan nan Part s o r r E g g e r e
+- VERB Masc Sing nan Past nan nan Part m a n k a r e
+- NOUN Fem Plur nan nan nan nan nan i n g u n z j o n e
+- VERB nan nan nan nan nan nan Inf i n t a s k a r e
+- NOUN Fem Sing nan nan nan nan nan G r i N N a
+- VERB Masc Plur nan Past nan nan Part f a r e
+- VERB nan Plur 3 Imp nan Ind Fin s o r r i d e r e
+- DET Fem Sing nan nan nan nan nan o p p o r t u n o
+- ADJ Fem Plur nan nan nan nan nan n o v e c e n t e s k o
+- ADJ nan Sing nan nan nan nan nan i n k o r p o r a r e
+- VERB Fem Sing 3 nan 3SIF nan Inf p r E m e r e
+- VERB nan Plur 3 Fut nan Ind Fin a b i t u a r e
+- VERB nan Sing 2 Pres nan Ind Fin v i c e k a p o
+- PROPN nan nan nan nan nan nan nan a s t r a k a n
+- VERB nan nan 3 nan 1PD nan Inf r i v o l t a r e
+- NOUN Masc Plur nan nan nan nan nan f e r m e n t o
+- NOUN Fem Sing nan nan nan nan nan s k a p p a t E l l a
+- VERB Masc Sing 3 nan 3SD nan Inf s o t t o m e t t e r e
+- NOUN Fem Plur nan nan nan nan nan f e r i r e
+- VERB Masc Sing nan Past nan nan Part d e s t i n a r e
+- ADJ Masc Sing nan nan nan nan nan a r r o s t i r e
+- ADJ Fem Sing nan nan nan nan nan m i n j a t u r i Z Z a t o
+- VERB Masc Sing nan Past nan nan Part g u n t o
+- X nan nan nan nan nan nan nan k a r r O c c a
+- VERB Fem Sing nan Past nan nan Part a l l u n G a t o
+- ADJ Masc Sing nan nan nan nan nan e s t i n G w e r e
+- VERB nan Sing 3 Imp nan Ind Fin u d i r e
+ADV -  nan nan nan nan nan nan nan s u p e r j o r
+- VERB nan Plur 3 Imp nan Ind Fin a s p e t t a r e
+- VERB nan nan 3 nan 1PD nan Inf i n d i r i z z a r e
+- VERB nan Sing 3 Pres nan Cnd Fin s f i d a r e
+- VERB Masc Sing nan Past nan nan Part b e r e
+- ADJ Masc Plur nan nan nan nan nan k l e m e n t E l l i
+- ADJ Masc Plur nan nan nan nan nan t e d e s k o
+- PROPN nan nan nan nan nan nan nan m i n a
+- ADV nan nan nan nan nan nan nan d o p o
+- VERB Masc Sing nan Past nan nan Part t r a d i r e
+- VERB Masc Plur nan Past nan nan Part f o r n i t o
+- NOUN Fem Sing nan nan nan nan nan Z o l l a
+- NOUN Fem Sing nan nan nan nan nan s k a r a m u c c a
+- NOUN Masc Plur nan nan nan nan nan a Z Z a r d o
+- PROPN nan nan nan nan nan nan nan l o r E n a
+NOUN -  Fem Sing nan nan nan nan nan b i f o r k
+- VERB nan nan nan nan nan nan Inf i n f o r m a r e
+- NOUN Masc Plur nan nan nan nan nan p a r t i r e
+- ADJ nan Plur nan nan nan nan nan f O r t e
+- ADJ Masc Sing nan nan nan nan nan f e r r a r j o
+- VERB nan Sing 2 Pres nan Imp Fin i n k o l l a r e
+- ADV nan nan nan nan nan nan nan m o n t a l d o
+- NOUN Fem Plur nan nan nan nan nan n a w s e a
+- NOUN Masc Sing nan nan nan nan nan t r a p a s s o
+- NOUN Fem Sing nan nan nan nan nan b o n d o n e
+- NOUN Masc nan nan nan nan nan nan m u l t i s E r v e r
+- ADJ Masc Plur nan nan nan nan nan p a k a t o
+- VERB nan Plur 2 nan 2PD nan Inf k o n f e s s a r e
+- VERB nan nan 3 nan 1PD nan Ger i s o l a r e
+- VERB nan Sing 3 Pres nan Ind Fin f i s s a r e
+- VERB nan Sing 3 Pres nan Ind Fin f o r m i k o l a r e
+- NOUN Fem Sing nan nan nan nan nan m a z z a
+- ADJ nan Sing nan nan nan nan nan m o r E n t e
+ADJ -  Fem Plur nan nan nan nan nan s p o r a d
+- VERB nan Plur 3 Imp nan Ind Fin t o r m e n t a r e
+ADJ -  Masc Sing nan nan nan nan nan s o c a l d e m o k r a t i
+- VERB Fem Sing nan Past nan nan Part i m p a l a
+NOUN -  Fem Sing nan nan nan nan nan a g g e t t i v
+- VERB nan nan nan nan nan nan Ger s m o r z a r e
+- ADJ Fem Plur nan nan nan nan nan k w O c e r e
+- VERB nan Plur 2 Pres nan Ind Fin k o n c E d e r e
+- ADJ nan Plur nan nan nan nan nan s o v r a n n a t u r a l e
+- ADJ Masc Sing nan nan nan nan nan a v v E r s o
+- ADV nan nan nan nan nan nan nan k w i n c i
+- VERB Fem Sing nan Past nan nan Part m a r c i r e
+- NOUN Fem Sing nan nan nan nan nan p r o v E t t a
+- NOUN Masc Sing nan nan nan nan nan b a l b e t t a r e
+ADJ -  Masc Sing nan nan nan nan nan d j u r E t
+- NOUN Fem Sing nan nan nan nan nan e s p o s i z z j o n e
+NOUN -  Masc Sing nan nan nan nan nan k a z z
+- NOUN Masc Sing nan nan nan nan nan a l E n t o
+- ADJ Masc Sing nan nan nan nan nan b a s s o
+- ADJ Masc Sing nan nan nan nan nan s k i f o s o
+- ADJ Fem Sing nan nan nan nan nan b i s b E t i k a
+- VERB Masc Plur nan Past nan nan Part s k a r i k a r e
+- VERB nan Sing 3 Pres nan Ind Fin b r a n d i r e
+- NOUN Fem Sing nan nan nan nan nan b i b e r o n e r i a
+- PUNCT nan nan nan nan nan nan nan m i k E l e
+- VERB nan nan nan nan nan nan Inf r i n t r a c c a r e
+- NOUN Masc Sing nan nan nan nan nan G a l O p p o
+- VERB nan Sing 1 nan 1SD nan Inf s k o r a g g a r e
+- VERB nan nan 3 nan 1PD nan Ger k o l p i r e
+- VERB nan Sing 3 Imp nan Ind Fin b a t t e r e
+- NOUN nan Sing nan nan nan nan nan a c c i d E n t e
+NOUN -  nan Sing nan nan nan nan nan a k k o m p a N N
+- ADJ nan Sing nan nan nan nan nan p j a c E n t e
+- PROPN nan nan nan nan nan nan nan s i d i s
+- NOUN Fem Sing nan nan nan nan nan t r i a d e
+- ADJ nan Sing nan nan nan nan nan i n t e G r a b i l e
+NOUN -  Masc Sing nan nan nan nan nan a z z j o
+ADJ -  Masc Sing nan nan nan nan nan s b a l o r d i t
+NOUN -  Fem Sing nan nan nan nan nan k a r b o n i Z Z
+- VERB nan Sing 3 Imp nan Ind Fin k o m p j e r e
+- VERB Masc Sing nan Past nan nan Part s m u s s a r e
+- VERB Masc Plur nan Past nan nan Part p j a z z a r e
+- VERB nan nan 3 nan 1PD nan Inf d i b a t t e r e
+- ADJ Masc Sing nan nan nan nan nan i m p a r a r e
+- ADJ Masc Plur nan nan nan nan nan r i d u r r e
+- NOUN Masc Sing nan nan nan nan nan m a n i k o
+- PROPN nan nan nan nan nan nan nan m o n t a l b i n i
+- NOUN Fem Sing nan nan nan nan nan a g g u n t a
+- NOUN Masc Plur nan nan nan nan nan p e t a c c i
+- NOUN Masc Sing nan nan nan nan nan p O r k o
+- ADJ nan Plur nan nan nan nan nan i m p r e n d i t o r j a l e
+- ADJ Masc Sing nan nan nan nan nan t o r E r o
+- VERB Masc Sing 3 nan 3SD nan Ger p e S S i v e n d o l o
+- ADJ Masc Plur nan nan nan nan nan s k a d u t o
+- VERB nan Sing 1 Imp nan Ind Fin b e r e
+- VERB nan Sing 3 Pres nan Ind Fin k o m p r a r e
+- VERB nan Plur 3 Pres nan Ind Fin m i s k j a r e
+- VERB nan Sing 3 Pres nan Ind Fin r a s s o m i L L a r e
+- ADJ Masc Plur nan nan nan nan nan m a l t r a t t a r e
+- ADV nan nan nan nan nan nan nan n O n
+- VERB nan Sing 3 Pres nan Ind Fin i n g a l l i r e
+- ADJ Masc Sing nan nan nan nan nan e d i l i z z j o
+- NOUN Masc Sing nan nan nan nan nan e k O l o G o
+- VERB nan Plur 1 Pres nan Ind Fin i m b a t t e r e
+- ADJ Masc Sing nan nan nan nan nan p i n c e t t o
