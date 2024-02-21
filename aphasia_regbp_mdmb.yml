@@ -1,0 +1,25 @@
+# YAML
+
+# where the samples will be written
+save_data: regbp-morederivational-morebits
+
+# where the vocabs will be written
+src_vocab: regbp-morederivational-morebits/vocab.src
+tgt_vocab: regbp-morederivational-morebits/vocab.tgt
+
+overwrite: True
+
+# Corpus opts
+data:
+  corpus_1:
+    path_src: regbp-morederivational-morebits/inputs.txt
+    path_tgt: regbp-morederivational-morebits/outputs.txt
+  valid:
+    path_src: regbp-morederivational-morebits/valid_in.txt
+    path_tgt: regbp-morederivational-morebits/valid_out.txt
+
+# where to save the checkpoints
+save_model: regbp-morederivational-morebits/model
+save_checkpoint_steps: 5000
+train_steps: 77280
+valid_steps: 5000

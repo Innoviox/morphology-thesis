@@ -1,0 +1,58 @@
+-max_length 25
+
+(or check actual max length)
+
+equal number of bits
+equal proportions of dataset
+
+<VirtualHost *:80>
+    ServerName qc.podsie.org
+
+    ProxyPreserveHost On
+    
+#    ProxyPass "/flower/" "http://0.0.0.0:5555/"
+ #   ProxyPassReverse "/flower/" "http://0.0.0.0:5555/"
+
+    ProxyPass "/db/" "http://0.0.0.0:5432/"
+    ProxyPassReverse "/db/" "http://0.0.0.0:5432/"    
+
+    ProxyPass "/backend/" "http://0.0.0.0:6060/"
+    ProxyPassReverse "/backend/" "http://0.0.0.0:6060/"
+
+    ErrorLog /var/log/httpd/yourdomain.com_error.log
+    CustomLog /var/log/httpd/yourdomain.com_access.log combined
+RewriteEngine on
+RewriteCond %{SERVER_NAME} =qc.podsie.org
+RewriteRule ^ https://%{SERVER_NAME}%{REQUEST_URI} [END,NE,R=permanent]
+</VirtualHost>
+
+<VirtualHost *:443>
+    ServerName qc.podsie.org
+
+    SSLEngine on
+    SSLCertificateFile /etc/letsencrypt/live/qc.podsie.org/fullchain.pem
+    SSLCertificateKeyFile /etc/letsencrypt/live/qc.podsie.org/privkey.pem
+
+    ProxyPreserveHost On
+    ProxyRequests off
+   
+  #  ProxyPass "/flower/" "http://0.0.0.0:5555/"
+  #  ProxyPassReverse "/flower/" "http://0.0.0.0:5555/"
+
+    ProxyPass "/db/" "http://0.0.0.0:5432/"
+    ProxyPassReverse "/db/" "http://0.0.0.0:5432/"
+
+    ProxyPass "/backend/" "http://0.0.0.0:6060/"
+    ProxyPassReverse "/backend/" "http://0.0.0.0:6060/"
+</VirtualHost>
+
+<VirtualHost *:5555>
+    ServerName qc.podsie.org
+
+    ProxyPreserveHost On
+    ProxyPass / http://0.0.0.0:5555/
+    ProxyPassReverse / http://0.0.0.0:5555/
+
+#    ErrorLog ${APACHE_LOG_DIR}/5555-service_error.log
+ #   CustomLog ${APACHE_LOG_DIR}/5555-service_access.log combined
+</VirtualHost>

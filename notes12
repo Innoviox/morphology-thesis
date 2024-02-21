@@ -1,0 +1,30 @@
+increase model size
+add bit for original category in derivation
+test on actual testl mao
+
+
+ - looking at intersection of things
+ - 
+
+ - debate in theoretical linguistic
+ - debate in cognitive science 
+
+ - link up w/ clinical data
+ - reanalyze clinical data based on VI
+ - drawbacks of clinical data
+
+ - mention dissociation
+
+
+ - model: describe how i encode the data & what assumptions are in there
+   - overview of italian inflections & derivations, phonitalia
+   - not giving it semantic vector space
+   - form => form
+   - 
+
+ - simulation
+   - why lesioning
+   - test/valid/train split
+ 
+ - discussion
+   - model is a metaphor for brains
